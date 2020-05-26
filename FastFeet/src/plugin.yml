@@ -1,0 +1,15 @@
+main: me.chris.FastFeet.Main
+name: FastFeet
+version: 3.0
+author: chris
+api-version: 1.15
+
+commands:
+  Hello:
+    description: hello? testing??
+  fastfeetdelay:
+    description: displays current rate blocks dissapear(default = 1s/20ticks)
+  fastfeetsetDelay:
+    description: sets the delay in ticks (20 ticks = 1 second)
+  fastfeetver:
+    description: gives you the current version of the plugin
